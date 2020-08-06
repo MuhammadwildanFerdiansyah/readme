@@ -1,2 +1,0 @@
-# readme
-rental mobil CRUD
